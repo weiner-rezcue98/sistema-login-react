@@ -5,7 +5,6 @@ import RoutesApp from "./routes";
 const App = () => {
     return (
       <>
-        <div>App</div>
         <RoutesApp />
         <GlobalStyle />
       </>
