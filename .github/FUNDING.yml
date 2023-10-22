@@ -1,0 +1,15 @@
+github:
+  sponsors:
+    - username: Senac
+      amount: 25 # valor do patrocínio em USD
+    - username: Senac Cloud - Equipe TI 
+      amount: 25
+  backers:
+    - username: nome-apoiador
+      amount: 10 # valor do apoio em USD
+    - username: outro-apoiador
+      amount: 5
+  custom:
+    - name: Terrel Tecnologia LTDA
+
+
